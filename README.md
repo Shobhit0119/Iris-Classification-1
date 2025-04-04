@@ -1,6 +1,6 @@
-# Iris Species Classification Project (Afame Technology Internship)
+# Iris Species Classification Project 
 
-This repository showcases my data science internship project at Afame Technology, where I focused on classifying Iris flower species (Setosa, Versicolor, Virginica) using machine learning. The project follows a comprehensive data science workflow, demonstrating my proficiency in data exploration, cleaning, analysis, and modeling.
+This repository showcases my data science project, where I focused on classifying Iris flower species (Setosa, Versicolor, Virginica) using machine learning. The project follows a comprehensive data science workflow, demonstrating my proficiency in data exploration, cleaning, analysis, and modeling.
 
 ## Project Overview
 
